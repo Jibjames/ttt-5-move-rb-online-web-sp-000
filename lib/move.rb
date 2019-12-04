@@ -13,6 +13,10 @@ def input_to_index(str)
 end
 
 def move(board, index, piece= "X")
+<<<<<<< HEAD
   board[index] = piece 
   return board
+=======
+  
+>>>>>>> bb204fb3b89e4164d6d10a6da2221f0bc5e1eb8c
 end
